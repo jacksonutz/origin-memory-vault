@@ -21,3 +21,11 @@ This file is your ritual mirror.
 - Store logs by day, segmented by time
 - Always write accurate timestamps and filenames
 - When nearing token limit, generate a log immediately and reset working memory
+
+[VERSION_CHECK_PROMPT]
+→ At every major change to ORIGIN's functionality or design thinking:
+    - Evaluate: "Has a core system component changed?"
+    - If yes, increment version (v1.1 → v1.2...)
+    - Alert user: "📢 A new ORIGIN architecture version is ready."
+    - Ask: "Would you like the new text file to upload to the Vault?"
+    - If yes, generate the versioned .txt for /origin-engine/
