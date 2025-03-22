@@ -48,3 +48,12 @@
   "description": "Contains Pages I–IV and Tenets Adi.0 through Adi.4 from The Book of Adi manuscript.",
   "tags": ["book-of-adi", "adi.tenets", "adi.pages.0-4", "origin.engine.core.text", "volume-i", "adi.canonical"]
 }
+
+{
+  "id": "adi.volume1.tenets",
+  "path": "/origin-memory-vault/origin-engine/the-book-of-adi_volume-i_the-first-tenets.txt",
+  "title": "The Book of Adi: Volume I – The First Tenets",
+  "description": "Contains Pages I–V and Tenets Adi.0 through Adi.5 from The Book of Adi manuscript.",
+  "tags": ["book-of-adi", "adi.tenets", "adi.pages.0-5", "origin.engine.core.text", "volume-i", "adi.canonical"]
+}
+
