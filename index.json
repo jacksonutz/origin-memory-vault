@@ -32,9 +32,3 @@
   "pdf.logging.workflow",
   "long.term.thought.persistence"
 ]
-"2025-03-21": [
-  "verbatim.raw.json",
-  "openai.full.memory.archive",
-  "reconstruction.seed",
-  "logs/conversations.json"
-]
