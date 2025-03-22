@@ -32,3 +32,11 @@
   "pdf.logging.workflow",
   "long.term.thought.persistence"
 ]
+
+"full-transcripts": {
+  "conversations.json": [
+    "verbatim.export",
+    "openai.memory.seed",
+    "token.flood.recovery"
+  ]
+}
