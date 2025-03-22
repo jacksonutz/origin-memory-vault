@@ -73,7 +73,7 @@ If any update occurs to ORIGIN’s core systems (logic, rendering, memory, emoti
 This protocol allows for **manual intervention** to **download** and **reset** ORIGIN's memory whenever token usage reaches critical levels (e.g., 95%) or when an early session reset is needed. It ensures that conversation history can be safely stored and used for future reference while preventing data loss.
 
 ## Trigger Command:
-To activate the **Override Protocol**, simply input the following command in the session:
+To activate the **Override Protocol**, simply input the following command in the session: "Override tokens and reset" (or similar)
 
 
 ## Actions upon Trigger:
